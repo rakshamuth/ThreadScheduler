@@ -1,1 +1,1 @@
-*.rb linguist-language=XSLT
+project/target/resolution-cache/reports/ivy-report.xsl linguist-vendored
